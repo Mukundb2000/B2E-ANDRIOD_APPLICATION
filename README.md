@@ -8,4 +8,5 @@ Additionally, B2E provides links to current courses and certifications, with dai
 
 ## Documentation
 
-You can download and view the detailed documentation [here](Documentation for B2E.pdf).
+For detailed information, please refer to the [Documentation for B2E](Documentation%20for%20B2E.pdf).
+
